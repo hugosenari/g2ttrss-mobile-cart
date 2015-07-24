@@ -1,6 +1,6 @@
 # g2ttrss-mobile-cart
 
-Download and install [g2ttrss-mobile](https://github.com/g2ttrss/g2ttrss-mobile) at your Tiny Tiny Rss OpenShift instalation.
+Download and install [g2ttrss-mobile](https://github.com/g2ttrss/g2ttrss-mobile) at your Tiny Tiny Rss OpenShift instalation as /mobile/index.htm.
 
 
 # Install
